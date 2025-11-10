@@ -4,7 +4,7 @@
 #  Find minimum spanning tree
 #  a) Using Prim’s algorithm
 
- import sys
+import sys
 
 V = 5  # number of departments
 
