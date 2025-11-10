@@ -1,3 +1,11 @@
+//  2.Searching and Sorting: 
+// 1. Add and store student details (ID, Name, CGPA) using dynamically allocated memory.
+//  2. Expand the student list using realloc() as new entries are added.
+//  3. Implement at least two Sorting Algorithms (Bubble Sort, Selection Sort, or Insertion Sort) to sort 
+// student records by:
+//   Name (Alphabetically)
+//   CGPA (Ascending/Descending)
+ 
 #include <iostream>
 #include <cstring>
 #include <cstdlib>
